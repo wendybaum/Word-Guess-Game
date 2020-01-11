@@ -1,6 +1,8 @@
 # Word-Guess-Game
 ## Option Two: Word Guess Game (Challenge - Recommended)
 
+Game URL: https://wendybaum.github.io/Word-Guess-Game/
+
 Theme: Florida Native Bees
 
 Word Guess Game that listens for key events as you type.
