@@ -1,0 +1,57 @@
+
+body {
+    max-width: 1024px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #648c6a;
+    margin: 0 auto;
+}
+
+.header {
+    margin-bottom: 2.5%;
+} 
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(156, 147, 92);
+}
+
+.imageBanner {
+    position: relative;
+    width: 8%;
+    right: 8%;
+    bottom: 8%;
+    top: 8%;
+    left: 8%;   
+}
+
+.parent {
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 0;
+}
+
+h5, h6 {
+    margin-top: 2.5%;
+    color: black;
+} 
+
+.activeWords {
+    font-size: 1.5em;
+    letter-spacing: 0.3em;
+    color: darkslategrey;
+}
+
+.correctAnswer {
+    background-color: rgb(156, 147, 92);
+    max-width: 100%;  
+    color: red;  
+}
+
+#guessesMadeDisplay {
+    font-size: 0.8em;
+}
+
+
